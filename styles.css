@@ -1,0 +1,28 @@
+body {
+    padding-top: 50px;
+  }
+  
+  .navbar {
+    position: fixed;
+    top: 0;
+    width: 100%;
+  }
+  
+  .menu-item {
+    margin-bottom: 30px;
+  }
+  
+  .menu-item img {
+    width: 100%;
+    height: auto;
+  }
+  
+  .menu-item h4 {
+    margin-top: 10px;
+    margin-bottom: 5px;
+  }
+  
+  .menu-item p.price {
+    font-weight: bold;
+    font-size: 20px;
+  }
