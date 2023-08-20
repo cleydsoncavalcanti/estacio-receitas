@@ -4,6 +4,10 @@
   height: 50px;
 }
 
+.is-invalid {
+  border-color: red;
+}
+
 /* b) Formatação das áreas semânticas */
 header {
   background-color: #333;
